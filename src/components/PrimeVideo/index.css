@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #000000;
+  min-height: 140vh;
+  background-size: cover;
+}
+.heading {
+  color: #ffffff;
+  font-size: 30px;
+  margin: 20px;
+}
+.moviesContainer {
+  margin: 30px;
+}
+.prime-video {
+  width: 100%;
+}
